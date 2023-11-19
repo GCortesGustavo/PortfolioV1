@@ -8,7 +8,13 @@ function App() {
 
   return (
     <>
+      <div>NAVBAR</div>
+      <div>ABOUT</div>
+      <div>PROJECTS</div>
+      <div>CONTACT</div>
+      <div>FOOTER</div>
       <h1 className='text-xl bg-black text-cyan-400'>Welcome to my portfolio Probando un cambio</h1>
+
     </>
   )
 }
