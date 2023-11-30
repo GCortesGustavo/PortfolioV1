@@ -1,10 +1,12 @@
 import './App.css'
+import Navbar from './Components/Navbar'
 
 function App() {
 
   return (
     <>
       <div className='bg-green'>
+        <Navbar />
         <h1>Menu improvisado</h1>
         <h1>About</h1>
         <h1>Projects</h1>
