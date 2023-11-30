@@ -5,8 +5,7 @@ function App() {
   return (
     <>
       <div className='bg-green'>
-        <h1>Menu improvisado
-        </h1>
+        <h1>Menu improvisado</h1>
         <h1>About</h1>
         <h1>Projects</h1>
         <h1>Contact</h1>
@@ -16,6 +15,8 @@ function App() {
 
       <div>ABOUT</div>
       <div>PROJECTS</div>
+      <div>Skills</div>
+      <div>Estudios</div>
       <div>CONTACT</div>
       <div>FOOTER</div>
       
