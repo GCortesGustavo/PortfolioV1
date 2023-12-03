@@ -8,7 +8,7 @@ const Navbar = () => {
             </div>
             <div className="flex flex-row space-beetween">
                 <h1 className="m-7">Sobre mí</h1>
-                <h1 className="m-7">Proyectos</h1>
+                <h1 className="m-7">Proyectos realizados</h1>
                 <h1 className="m-7">Skills</h1>
                 <h1 className="m-7">Educación</h1>
                 <h1 className="m-7">Contacto</h1>
