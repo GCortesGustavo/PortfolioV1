@@ -1,5 +1,8 @@
 import './App.css'
-import Navbar from './Components/Navbar'
+import Navbar from './Components/Navbar';
+import About from "./Components/About"
+
+
 
 function App() {
 
@@ -7,8 +10,7 @@ function App() {
     <>
       <div className='bg-green'>
         <Navbar />
-        <h1>Menu improvisado</h1>
-        <h1>About</h1>
+        <About />
         <h1>Projects</h1>
         <h1>Contact</h1>
         <p>Oscuro Claro</p>
