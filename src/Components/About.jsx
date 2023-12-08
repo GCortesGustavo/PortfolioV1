@@ -11,7 +11,7 @@ const About = () => {
                 <h1>Soy Gustavo Cortés/ Desarrollador web full stack</h1>
                 </div>
                 <div>
-                <p>Hola a todos!
+                <p>!Hola a todos!
                 Soy desarrollador web, técnico en Marketing y diseñador UX/UI. 
                 Dedicado, responsable, creativo, son algunas de mis cualidades como profesional.
                 Me encanta estar al aire libre, conocer personas, crecer constantemente y aprender.
